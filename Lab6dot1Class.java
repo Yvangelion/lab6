@@ -2,7 +2,7 @@ package Lab6dot1;
 
 public class Lab6dot1Class {
 
-	/* Yvan Ngah
+	/* 
 	 * Computer Science 1 Spring
 	 * 6-1  Sum of a series.
 	 *
